@@ -1,4 +1,4 @@
-### Hi there 👋
+   Hi there thanks for dropping by. My name is Rachel. 
 
 - 🔭 I’m currently working on the Northcoders Bootcamp
 - 🌱 I’m currently learning how to use Git and Github
