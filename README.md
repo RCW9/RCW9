@@ -1,11 +1,5 @@
-   Hi there thanks for dropping by. My name is Rachel. 
-
-- 🔭 I’m currently working on the Northcoders Bootcamp
-- 🌱 I’m currently learning how to use Git and Github
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my dogs
-- 📫 How to reach me: ...
-- 
-- ⚡ Fun fact: ...
--->
+   Hi there thanks for dropping by. I'm Rachel 
+- 🔭 A recent graduate of the Northcoders Data Engineering Bootcamp
+- 🌱 Carrying out Harvard CS50p Python course
+- 👯 Looking for my first step on the tech ladder 
+- - 💬 Owner of the goodest of good dogs 🦮🐕‍🦺
